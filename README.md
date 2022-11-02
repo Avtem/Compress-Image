@@ -1,4 +1,4 @@
-Source code for the program "CompressImage ver.2"
+Source code for the program "CоmprеssІmage ver.2"
 
 READ ME!!!<br>
 This is my private project. I was the only person working on it, so it will not build on other machines.
